@@ -7,21 +7,14 @@
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contribution](#contribution)
-  * [Tests](#tests)
+  * [Demo](#Demo)
   * [Questions](#questions)
   
   ## Installation 
   User can git clone to local repo and run this app through the terminal using the "node index.js" command. npm must be installed.
-  ## Usage
-  NA
-  ## License
-  This project is not licensed.
-  ## Contribution
-  NA
-  ## Tests
-  NA
+  
+  ## Demo
+   [Click here to watch Demo](https://drive.google.com/file/d/1vKhNnviFmFrE8BVQeFsXM9lncYa208DY/view?usp=sharing)
+ 
   ## Questions
   Questions? Reach out! [GitHub](https://www.github.com/natcalderon)  email: nat.calderon04@gmail.com  
